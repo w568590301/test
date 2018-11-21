@@ -1,3 +1,3 @@
 FROM centos
-ENV name Docker
+ENV name docker
 CMD echo "hello $name"
